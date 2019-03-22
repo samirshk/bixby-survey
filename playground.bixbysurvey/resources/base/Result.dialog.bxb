@@ -1,0 +1,4 @@
+dialog (Result) {
+  match: SurveyRatingText
+  template("Feedback Recieved")
+}
