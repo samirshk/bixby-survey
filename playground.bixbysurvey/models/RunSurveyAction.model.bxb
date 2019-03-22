@@ -11,6 +11,6 @@ action (RunSurveyAction) {
       min (Required) max (One)
     }
   }
-  output (SurveyRunningRatingDecimal)
+  output (SurveyRatingText)
   type(Calculation)
 }

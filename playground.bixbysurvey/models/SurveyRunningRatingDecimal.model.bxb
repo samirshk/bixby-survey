@@ -1,3 +1,0 @@
-decimal (SurveyRunningRatingDecimal) {
-  description (The current rating)
-}
