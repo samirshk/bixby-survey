@@ -1,4 +1,7 @@
-module.exports.function = function runSurvey (SurveyNumber, SurveyRating) {
+module.exports.function = function runSurvey (SurveyNumber, SurveyRating, SurveyUser) {
 
-  return "Recorded " + SurveyRating + " for " + SurveyNumber
+  if (!SurveyUser)
+    SurveyUser = "Me"
+    // return "Rating: " + SurveyRating + "\nFor " + SurveyNumber + "\nFrom: " + SurveyUser
+  return "Rating: " + SurveyRating + " For: " + SurveyNumber + " From: " + SurveyUser //simulator test
 }

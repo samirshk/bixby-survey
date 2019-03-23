@@ -1,13 +1,16 @@
 action (RunSurveyAction) {
   description (Run Survey Collect Ratings)
   collect {
+    input (SurveyUser) {
+      type (myself.Self)
+      min (Optional)
+    }
     input (SurveyNumber) {
-      type (SurveyNumberInteger)
-      min (Required)
-      max (One)
+      type (mycore.Integer)
+      min (Required) max (One)
     }
     input (SurveyRating) {
-      type (SurveyRatingText)
+      type (mycore.Text)
       min (Required) max (One)
     }
   }

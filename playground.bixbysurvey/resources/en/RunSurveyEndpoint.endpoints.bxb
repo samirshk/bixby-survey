@@ -2,7 +2,7 @@ endpoints {
 
   action-endpoints {
     action-endpoint (RunSurveyAction) {
-      accepted-inputs (SurveyNumber, SurveyRating)
+      accepted-inputs (SurveyNumber, SurveyRating, SurveyUser)
       local-endpoint ("RunSurvey.js")
     }
   }

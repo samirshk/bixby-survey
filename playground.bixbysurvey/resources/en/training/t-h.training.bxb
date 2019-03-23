@@ -1,5 +1,5 @@
 train (t-h5rdp64gsp77p75zbswcp1t6l) {
-  utterance ("[g:RunSurveyAction] (88512243)[v:SurveyNumberInteger] is a (scam)[v:SurveyRatingText]")
-  plan (Y2BhUC/ISaxML8ovzUvRS8qsSKosLi0qS63UCwZTQYklmXnpIakVJQxqOBQGleZB1Doml2Tm5zFo4TXQrzQ3KbXIM68kNT21iHjLmRkYGZiAJAOQBkEIgIsCAA==)
-  last-modified (1553292248412)
+  utterance ("[g:RunSurveyAction] (88512243)[v:mycore.Integer] is a (scam)[v:mycore.Text]")
+  plan (Y2BhUC/ISaxML8ovzUvRS8qsSKosLi0qS63UCwZTQYklmXnpIakVJQxqOBQGleZB1Doml2Tm5zEIlGWW6SXnF6XqeeaVpKanFjHwwkXABjEzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1553302128147)
 }

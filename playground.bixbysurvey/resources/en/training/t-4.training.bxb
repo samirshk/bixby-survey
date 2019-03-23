@@ -1,5 +1,5 @@
 train (t-4sp6ajpcnbasqvyop0neh971j) {
-  utterance ("[g:RunSurveyAction] Please give (12344)[v:SurveyNumberInteger] a rating of (crappy)[v:SurveyRatingText]")
-  plan (Y2BhMCzISaxML8ovzUvRS8qsSKosLi0qS63UCwZTQaV5eZl56UGJJUDSJTU5Mzcxh0ENhxagYogux+SSzPw8Bi28RvuV5ialFnnmlaSmpxYxqON3Btj+kNSKEgZmBkYGJiDJAKRBEALgogA=)
-  last-modified (1553221830377)
+  utterance ("[g:RunSurveyAction] Please give (12344)[v:mycore.Integer] a rating of (crappy)[v:mycore.Text]")
+  plan (Y2BhUC/ISaxML8ovzUvRS8qsSKosLi0qS63UCwZTQYklmXnpIakVJQxqOBQGleZB1Doml2Tm5zEIlGWW6SXnF6XqeeaVpKanFjHwwkXABjEzMDIwAUkGIA2CEAAXBQA=)
+  last-modified (1553302152964)
 }

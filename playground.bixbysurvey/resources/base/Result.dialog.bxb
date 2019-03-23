@@ -1,4 +1,4 @@
 dialog (Result) {
   match: SurveyRatingText
-  template("Feedback Recieved")
+  template("Feedback Recorded")
 }

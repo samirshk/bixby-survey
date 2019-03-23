@@ -5,4 +5,16 @@ capsule {
   targets {
     target (bixby-mobile-en-US)
   }
+  capsule-imports {
+
+    import (viv.core) {
+      as (mycore)
+    }
+    
+    import (viv.self) {
+      as (myself)
+      version (3.2.37)
+    }
+  }
+  
 }
