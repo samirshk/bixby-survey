@@ -1,3 +1,3 @@
 text (SurveyRatingText) {
-  extends (mycore.Text)
+  extends (viv.core.Text)
 }
